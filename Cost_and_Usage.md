@@ -24,6 +24,7 @@ aws ce get-cost-and-usage-with-resources  \
 
 ## ProTip(s)
 > An error occurred (ValidationException) when calling the GetCostAndUsageWithResources operation: start date is too old for hourly, the max supported days for hourly granularity is 14 days
+
 [API Documentation](https://docs.aws.amazon.com/aws-cost-management/latest/APIReference/API_GetCostAndUsageWithResources.html#API_GetCostAndUsageWithResources_RequestSyntax)  explains this. 
 
 ## References
