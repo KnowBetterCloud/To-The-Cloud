@@ -25,9 +25,9 @@ https://aws.amazon.com/architecture
 https://github.com/awslabs  
 
 ### Let's Build!
-AWS Workshops | https://catalog.us-east-1.prod.workshops.aws/
-AWS Well-Architected Labs | https://www.wellarchitectedlabs.com/
-Data on EKS | https://awslabs.github.io/data-on-eks/  
+AWS Workshops | https://catalog.us-east-1.prod.workshops.aws/  
+AWS Well-Architected Labs | https://www.wellarchitectedlabs.com/  
+Data on EKS | https://awslabs.github.io/data-on-eks/    
 
 ## AWS Social Media
 https://www.youtube.com/c/AWSEventsChannel/playlists  
