@@ -14,7 +14,6 @@ Status:  Work In Progress (Sep 2023)
   * Increase agility, lower costs, and accelerate innovation using AWS.
 * https://aws.amazon.com/solutions/  
   * Vetted solutions and guidance for business and technical use cases
-
   
 ## AWS Code Examples 
 https://github.com/aws-ia  
@@ -39,3 +38,13 @@ https://aws.amazon.com/blogs/
 https://aws.amazon.com/blogs/aws/ (AWS News Blog)  
 
 AWS Community Builders | https://aws.amazon.com/developer/community/community-builders/
+
+## Training (from AWS)
+[AWS Skill Builder](https://explore.skillbuilder.aws/learn) over 500 online digital courses 
+
+## Training (not affiliated with AWS)
+[Adrian Cantrill](https://learn.cantrill.io/) - I feel that Adrian has a great delivery, and dives in to topics so that I actually learn something (not simply to just pass an exam).  
+[A Cloud Guru](https://learn.acloud.guru/home) (now part of PluralSight?) - I have had good luck, overall, using A Cloud Guru (ACG).  Some courses were not "great".
+[Udemy](https://www.udemy.com/) - **always** wait for them to offer some sort of sale.  Content is somewhat hit-or-miss, in my experience.  Overall, a learning platform worth looking in to, I feel.  
+[edX](https://home.edx.org/)
+
