@@ -44,7 +44,7 @@ AWS Community Builders | https://aws.amazon.com/developer/community/community-bu
 
 ## Training (not affiliated with AWS)
 [Adrian Cantrill](https://learn.cantrill.io/) - I feel that Adrian has a great delivery, and dives in to topics so that I actually learn something (not simply to just pass an exam).  
-[A Cloud Guru](https://learn.acloud.guru/home) (now part of PluralSight?) - I have had good luck, overall, using A Cloud Guru (ACG).  Some courses were not "great".
+[A Cloud Guru](https://learn.acloud.guru/home) (now part of PluralSight?) - I have had good luck, overall, using A Cloud Guru (ACG).  Some courses were not "great".  
 [Udemy](https://www.udemy.com/) - **always** wait for them to offer some sort of sale.  Content is somewhat hit-or-miss, in my experience.  Overall, a learning platform worth looking in to, I feel.  
 [edX](https://home.edx.org/)
 
