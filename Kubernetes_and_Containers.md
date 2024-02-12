@@ -26,4 +26,4 @@ https://aws.amazon.com/blogs/containers/tag/data-on-eks/
 
 ## AWS Code Examples
 https://github.com/aws-ia  
-https://github.com/aws-ia/terraform-aws-eks-blueprintsw
+https://github.com/aws-ia/terraform-aws-eks-blueprints
